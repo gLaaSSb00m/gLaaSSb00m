@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AL HOSSAIN ABID
-- 👀 I’m interested in GAME DEVELOPER
+- 👀 I’m interested in GAME DEVELOPMENT
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on PROBLEM SOLUATION
 - 📫 How to reach me eaabid1012@gmail.com
